@@ -22,7 +22,7 @@ from docutils.parsers.rst import Directive, directives
 
 from sphinx import addnodes, version_info
 from sphinx.roles import XRefRole
-from sphinx.locale import _(), _
+from sphinx.locale import _
 from sphinx.domains import Domain, ObjType
 from sphinx.directives import ObjectDescription
 from sphinx.util.nodes import make_refnode
